@@ -1,1 +1,1 @@
-echo "db connection new changes remote by dev 2"
+echo "db connection new changes local by me " 
